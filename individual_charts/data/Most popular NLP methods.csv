@@ -1,0 +1,7 @@
+,0
+None,0.0
+Other,5.208333333333333
+"Contextualized embeddings (ELMo, CoVe)",19.791666666666668
+"Encoder—decoder models (seq2seq, vanilla transformers)",40.625
+"Transformer language models (GPT—3, BERT, XLnet, etc)",79.16666666666667
+"Word embeddings/vectors (GLoVe, fastText, word2vec)",80.20833333333333

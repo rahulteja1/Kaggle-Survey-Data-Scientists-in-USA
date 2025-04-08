@@ -1,0 +1,15 @@
+,0
+None,0.0
+Other,3.216374269005848
+Evolutionary Approaches,4.093567251461988
+Generative Adversarial Networks,5.555555555555555
+Graph Neural Networks,8.771929824561404
+"Autoencoder Networks (DAE, VAE, etc)",11.695906432748538
+"Transformer Networks (BERT, gpt—3, etc)",20.46783625730994
+Recurrent Neural Networks,21.34502923976608
+"Dense Neural Networks (MLPs, etc)",25.730994152046783
+Bayesian Approaches,32.748538011695906
+Convolutional Neural Networks,33.333333333333336
+"Gradient Boosting Machines (xgboost, lightgbm, etc)",66.66666666666667
+Decision Trees or Random Forests,81.57894736842105
+Linear or Logistic Regression,87.42690058479532

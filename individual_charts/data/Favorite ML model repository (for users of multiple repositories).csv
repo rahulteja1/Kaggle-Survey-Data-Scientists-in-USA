@@ -1,0 +1,8 @@
+,count
+ ONNX models ,1.6
+ NVIDIA NGC models  ,1.6
+ Timm ,1.6
+ PyTorch Hub ,7.9
+ Kaggle datasets ,25.4
+ Huggingface Models ,28.6
+  TensorFlow Hub ,31.7

@@ -1,0 +1,9 @@
+,0
+None,0.0
+Other,6.741573033707865
+"Vision transformer networks (ViT, DeiT, BiT, BEiT, Swin, etc)",14.606741573033707
+"Generative Networks (GAN, VAE, etc)",23.59550561797753
+"Object detection methods (YOLOv6, RetinaNet, etc)",40.449438202247194
+"General purpose image/video tools (PIL, cv2, skimage, etc)",43.82022471910113
+"Image segmentation methods (U—Net, Mask R—CNN, etc)",49.438202247191015
+"Image classification and other general purpose networks (VGG, Inception, ResNet, ResNeXt, NASNet, EfficientNet, etc)",74.15730337078652
