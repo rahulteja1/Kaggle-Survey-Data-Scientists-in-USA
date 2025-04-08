@@ -1,7 +1,3 @@
-Here’s how you can structure the **README** for your Kaggle Data Science & Machine Learning Survey project, which focuses on analyzing responses from 2022 data and filtering by job title and location.
-
----
-
 # 2022 Kaggle Data Science & Machine Learning Survey Analysis
 
 ## Overview
